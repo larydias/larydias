@@ -9,9 +9,8 @@ Habilidades Técnicas:
  
 - SQL 
 - NoSQL 
-- Excel 
-- Power BI
 - Python 
+- Java
 - Git / Github
 
 Além de me dedicar aos estudos, invisto grande parte do meu tempo em projetos práticos relacionados à minha área de estudo, aplicando os conhecimentos teóricos de forma concreta. 
