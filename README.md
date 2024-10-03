@@ -1,7 +1,9 @@
   <h2 align "justified">Olá! Sou Jornalista e Radialista em transição de carreira👋🏽 </h2>
   <img align = "right" src= "https://media.discordapp.net/attachments/1075996497407123509/1227375977617686617/prof.png?ex=66282df4&is=6615b8f4&hm=ecf94f7593b2f1aa6bf84705553feecf3a37cd58c436f7eb387b68b665805513&=&format=webp&quality=lossless&width=140&height=140">
   
-<p><br> Dediquei aproximadamente 8 anos da minha vida à comunicação. Trabalhei em uma rádio web, fiz locução de lojas e carros de som e atuei em agências de marketing digital e foram experiências válidas para o meu crescimento profissional. 
+<p><br> Olá! Sou Jornalista e Radialista em transição de carreira. 
+
+Dediquei aproximadamente 8 anos da minha vida à comunicação. Trabalhei em uma rádio web, fiz locução de lojas e carros de som e atuei em agências de marketing digital e foram experiências válidas para o meu crescimento profissional. 
 
 Mas a vida me levou a novos desafios e hoje sou uma entusiasta da tecnologia. Estudo para aprimorar os meus conhecimentos na esperança de um dia ter a minha primeira oportunidade na área. 
 
@@ -11,6 +13,9 @@ Habilidades Técnicas:
 - NoSQL 
 - Python 
 - Java
+- HTML (Em capacitação)
+- JavaScript (Em capacitação)
+- CSS (Em capacitação)
 - Git / Github
 
 Além de me dedicar aos estudos, invisto grande parte do meu tempo em projetos práticos relacionados à minha área de estudo, aplicando os conhecimentos teóricos de forma concreta. 
